@@ -1,0 +1,20 @@
+order_date,order_id,State,CustomerName
+01-04-2018,B-25601,Gujarat,Bharat
+01-04-2018,B-25602,Maharashtra,Pearl
+03-04-2018,B-25603,"Madhya Pradesh",Jahan
+03-04-2018,B-25604,Rajasthan,Divsha
+05-04-2018,B-25605,"West Bengal",Kasheen
+06-04-2018,B-25606,Karnataka,Hazel
+06-04-2018,B-25607,"Jammu and Kashmir",Sonakshi
+08-04-2018,B-25608,"Tamil Nadu",Aarushi
+09-04-2018,B-25609,"Uttar Pradesh",Jitesh
+09-04-2018,B-25610,Bihar,Yogesh
+11-04-2018,B-25611,"Kerala ",Anita
+12-04-2018,B-25612,Punjab,Shrichand
+12-04-2018,B-25613,Haryana,Mukesh
+13-04-2018,B-25614,"Himachal Pradesh",Vandana
+15-04-2018,B-25615,Sikkim,Bhavna
+15-04-2018,B-25616,Goa,Kanak
+17-04-2018,B-25617,Nagaland,Sagar
+18-04-2018,B-25618,"Andhra Pradesh",Manju
+10-12-2018,B-25904,Delhi,Swapnil
