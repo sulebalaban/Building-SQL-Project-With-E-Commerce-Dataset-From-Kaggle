@@ -11,5 +11,7 @@ Monetary (M): How much a customer spends.
 This allows businesses to better understand customer behavior and target marketing strategies effectively.
 
 Tools Used
+
 MySQL: For data processing and queries.
+
 Kaggle Datasets: Used Excel files for storing sales data.
