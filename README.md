@@ -15,3 +15,5 @@ Tools Used
 MySQL: For data processing and queries.
 
 Kaggle Datasets: Used Excel files for storing sales data.
+
+![Language](https://img.shields.io/badge/language-SQL-blue)
